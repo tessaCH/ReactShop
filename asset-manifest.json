@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReactShop/static/css/main.2b646858.chunk.css",
+    "main.js": "/ReactShop/static/js/main.e85fda22.chunk.js",
+    "main.js.map": "/ReactShop/static/js/main.e85fda22.chunk.js.map",
+    "runtime~main.js": "/ReactShop/static/js/runtime~main.a9101baf.js",
+    "runtime~main.js.map": "/ReactShop/static/js/runtime~main.a9101baf.js.map",
+    "static/js/2.90cc0fb8.chunk.js": "/ReactShop/static/js/2.90cc0fb8.chunk.js",
+    "static/js/2.90cc0fb8.chunk.js.map": "/ReactShop/static/js/2.90cc0fb8.chunk.js.map",
+    "index.html": "/ReactShop/index.html",
+    "precache-manifest.deb3e80516de95f1fd82d332f91425d1.js": "/ReactShop/precache-manifest.deb3e80516de95f1fd82d332f91425d1.js",
+    "service-worker.js": "/ReactShop/service-worker.js",
+    "static/css/main.2b646858.chunk.css.map": "/ReactShop/static/css/main.2b646858.chunk.css.map",
+    "static/media/crown.19ef7b17.svg": "/ReactShop/static/media/crown.19ef7b17.svg"
+  }
+}
