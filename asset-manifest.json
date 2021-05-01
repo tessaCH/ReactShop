@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ReactShop/static/css/main.7a34e27a.chunk.css",
-    "main.js": "/ReactShop/static/js/main.15421ed2.chunk.js",
-    "main.js.map": "/ReactShop/static/js/main.15421ed2.chunk.js.map",
-    "runtime~main.js": "/ReactShop/static/js/runtime~main.a9101baf.js",
-    "runtime~main.js.map": "/ReactShop/static/js/runtime~main.a9101baf.js.map",
-    "static/js/2.ea64a89b.chunk.js": "/ReactShop/static/js/2.ea64a89b.chunk.js",
-    "static/js/2.ea64a89b.chunk.js.map": "/ReactShop/static/js/2.ea64a89b.chunk.js.map",
-    "index.html": "/ReactShop/index.html",
-    "precache-manifest.bd4bd292860a8ba92725643027d8b211.js": "/ReactShop/precache-manifest.bd4bd292860a8ba92725643027d8b211.js",
-    "service-worker.js": "/ReactShop/service-worker.js",
-    "static/css/main.7a34e27a.chunk.css.map": "/ReactShop/static/css/main.7a34e27a.chunk.css.map",
-    "static/media/crown.19ef7b17.svg": "/ReactShop/static/media/crown.19ef7b17.svg",
-    "static/media/shopping-bag.30f07071.svg": "/ReactShop/static/media/shopping-bag.30f07071.svg"
+    "main.css": "/static/css/main.7a34e27a.chunk.css",
+    "main.js": "/static/js/main.15421ed2.chunk.js",
+    "main.js.map": "/static/js/main.15421ed2.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.913eac86.chunk.js": "/static/js/2.913eac86.chunk.js",
+    "static/js/2.913eac86.chunk.js.map": "/static/js/2.913eac86.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1deb2008ec267951020c5ede8386af89.js": "/precache-manifest.1deb2008ec267951020c5ede8386af89.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.7a34e27a.chunk.css.map": "/static/css/main.7a34e27a.chunk.css.map",
+    "static/media/crown.19ef7b17.svg": "/static/media/crown.19ef7b17.svg",
+    "static/media/shopping-bag.30f07071.svg": "/static/media/shopping-bag.30f07071.svg"
   }
 }
